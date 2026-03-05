@@ -1,0 +1,16 @@
+Instructions:
+
+Design and implement an face detection project
+
+The scope and application of the project are open-ended. Groups may focus on a single concept or combine multiple techniques in one system.
+
+    You are free to choose:
+    - The type of images / medium to use
+    - The problem or scenario being addressed
+    - The image processing techniques and logic applied
+
+    Submission Requirements:
+    - Simple description of proposed project
+    - Google drive of finished project
+
+Note: Presentation date is on March 6.
